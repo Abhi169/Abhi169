@@ -1,8 +1,8 @@
-### Hi there, I'm a learner,content creator,looking for internships/Work Experience 👋
+### Hi there, I'm a learner,content creator 👋
 
 ---
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning web development,bug bounty,c language,python.
+- 🌱 I’m currently learning bug bounty,c language.
 - ✨ 2022 Aim: To publish atleast 2 useful projects.
 ---
 
