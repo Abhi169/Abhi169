@@ -1,7 +1,7 @@
 ### Hi there, I'm a learner,content creator 👋
 
 ---
-- 👀 I’m interested in cyber security.
+- 👀 I’m interested in android development.
 - 🌱 I’m currently learning bug bounty,c++ language.
 - ✨ 2022 Aim: To publish atleast 2 useful projects.
 ---
