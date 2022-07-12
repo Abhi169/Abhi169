@@ -2,7 +2,7 @@
 
 ---
 - 👀 I’m interested in android development.
-- 🌱 I’m currently learning bug bounty,c++ language.
+- 🌱 I’m currently learning web development.
 - ✨ 2022 Aim: To publish atleast 2 useful projects.
 ---
 
