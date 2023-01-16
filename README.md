@@ -1,9 +1,7 @@
 ### Hi there, I'm a learner,content creator 👋
 
 ---
-- 👀 I’m interested in android development.
-- 🌱 I’m currently learning web development.
-- ✨ 2022 Aim: To publish atleast 2 useful projects.
+- ✨ 2023 Aim: To publish atleast 2 useful projects.
 ---
 
 ---
