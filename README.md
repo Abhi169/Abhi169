@@ -1,7 +1,7 @@
-### Hi there, I'm a learner,content creator 👋
+### Hi there, currently building projects with MERN technologies 👋
 
 ---
-- ✨ 2023 Aim: To publish atleast 2 useful projects.
+- ✨ 2024 Aim: To get an internship by May month.
 ---
 
 ---
