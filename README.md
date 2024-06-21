@@ -1,7 +1,8 @@
 ### Hi there, currently building projects with MERN technologies 👋
 
 ---
-- ✨ 2024 Aim: To get an internship by May month.
+- ✨ 2024 Aim: <del>To get an internship by May month.</del>
+- ✨ 2024 Goal: To get a good placement.
 ---
 
 ---
