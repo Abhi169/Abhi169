@@ -2,7 +2,7 @@
 
 ---
 - ✨ 2024 Aim: <del>To get an internship by May month.</del>
-- ✨ 2024 Goal: To get a good placement.
+- ✨ 2024 Goal: <del>To get a good placement.</del>
 ---
 
 ---
