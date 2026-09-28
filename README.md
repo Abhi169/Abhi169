@@ -3,6 +3,7 @@
 ---
 - ✨ 2024 Aim: <del>To get an internship by May month.</del>
 - ✨ 2024 Goal: <del>To get a good placement.</del>
+- ✨ 2027 Goal: To make meaningful contributions to projects.
 ---
 
 ---
